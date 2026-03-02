@@ -6,10 +6,11 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/lucteaganwhite/
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/teaganwhite718
+
 ---
 
 Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?
